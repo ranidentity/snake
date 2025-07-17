@@ -1,0 +1,15 @@
+/Users/ooichiewwei/Documents/c#/snake/obj/Debug/net9.0/snake.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ooichiewwei/Documents/c#/snake/obj/Debug/net9.0/snake.AssemblyInfoInputs.cache
+/Users/ooichiewwei/Documents/c#/snake/obj/Debug/net9.0/snake.AssemblyInfo.cs
+/Users/ooichiewwei/Documents/c#/snake/obj/Debug/net9.0/snake.csproj.CoreCompileInputs.cache
+/Users/ooichiewwei/Documents/c#/snake/obj/Debug/net9.0/snake.sourcelink.json
+/Users/ooichiewwei/Documents/c#/snake/bin/Debug/net9.0/snake
+/Users/ooichiewwei/Documents/c#/snake/bin/Debug/net9.0/snake.deps.json
+/Users/ooichiewwei/Documents/c#/snake/bin/Debug/net9.0/snake.runtimeconfig.json
+/Users/ooichiewwei/Documents/c#/snake/bin/Debug/net9.0/snake.dll
+/Users/ooichiewwei/Documents/c#/snake/bin/Debug/net9.0/snake.pdb
+/Users/ooichiewwei/Documents/c#/snake/obj/Debug/net9.0/snake.dll
+/Users/ooichiewwei/Documents/c#/snake/obj/Debug/net9.0/refint/snake.dll
+/Users/ooichiewwei/Documents/c#/snake/obj/Debug/net9.0/snake.pdb
+/Users/ooichiewwei/Documents/c#/snake/obj/Debug/net9.0/snake.genruntimeconfig.cache
+/Users/ooichiewwei/Documents/c#/snake/obj/Debug/net9.0/ref/snake.dll

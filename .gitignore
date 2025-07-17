@@ -1,0 +1,122 @@
+# .NET Build Artifacts
+bin/
+obj/
+*.csproj.user
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+!.vscode/launch.json
+!.vscode/tasks.json
+*.code-workspace
+
+# NuGet Packages
+*.nupkg
+packages/
+*.nuget.props
+*.nuget.targets
+
+# Roslyn and MSBuild
+*.csproj.bak
+*.cache
+*.ide
+*.pdb
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.ipdb
+*.tlog
+*.log
+*.trx
+*.msi
+*.msm
+*.msp
+*.vbw
+*.bsln
+*.bim
+*.bim_*
+*.nvproj
+*.ncb
+*.aps
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.VC.opendb
+*.VC.opendb
+*.dbmdl
+*.sbr
+*.VC.dbmdl
+*.ipch
+*.idb
+*.exp
+*.lib
+*.Resources.res
+*.resources
+*.res
+*.resx
+*.cachefile
+
+# Dependency Directories
+node_modules/
+bower_components/
+
+# Temporary Files
+*~
+*.bak
+*.swp
+*.tmp
+*.temp
+*.orig
+*.rej
+.DS_Store
+Thumbs.db
+
+# IDE-Specific Files
+.idea/
+*.iml
+
+# Diagnostic Files
+*.dmp
+*.nvuser
+*.aps
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.VC.opendb
+
+# Runtime and Environment
+*.pid
+*.seed
+*.pid.lock
+*.pidb
+*.user
+*.userprefs
+*.suo
+*.sln.docstates
+
+# Azure and Other Cloud Services
+*.azure
+*.azurePipelines
+*.azcli
+*.azureFunctions
+*.azureFunctionsProj
+
+# Miscellaneous
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
